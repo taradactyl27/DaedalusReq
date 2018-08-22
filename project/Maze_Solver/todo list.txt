@@ -1,0 +1,6 @@
+- different sorting algorithms
+- button to Generate random maze
+- incorporate PrimsGenerator.java into rest of code
+- speed slider to control path finding time (if slider is 0, then instant)
+- timer
+- status text
